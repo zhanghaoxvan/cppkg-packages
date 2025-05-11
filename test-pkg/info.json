@@ -1,0 +1,7 @@
+{
+    "name": "test-pkg",
+    "version": "0.0.1",
+    "author": "zhanghaoxvan",
+    "description": "a first package of `cppkg`",
+    "license": "MIT"
+}
